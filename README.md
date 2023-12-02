@@ -1,3 +1,5 @@
+Forked version - local model testing.
+
 # Welcome to QuantGPT 🚀 🌒
 Interface AI with Quantitative Analysis for Enhanced Strategy Building
 
